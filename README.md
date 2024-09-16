@@ -1,5 +1,5 @@
-#CONVERSOR DE TEMPERATURA#
-##Conversor de temperatura Grados Celsius a Grados Fahrenheit##
+#CONVERSOR DE TEMPERATURA
+##Conversor de temperatura Grados Celsius a Grados Fahrenheit
 
 ###🌟ACERCA DEL PROYECTO
 **Estado del proyecto:**En construccion.
